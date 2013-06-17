@@ -18,7 +18,7 @@
         <!-- /header -->
         <div data-role="content">
             <ul data-role="listview" data-inset="true" data-filter="false">
-                <li><a href="Announcements.aspx">Announcements</a></li>
+                <li><a href="http://wayneweb1.wayneschools.com/district/mobile/Announcements.aspx">Announcements</a></li>
                 <li><a href="http://wayneweb1.wayneschools.com/district/mobile/calendar.aspx">Upcoming Events</a></li>
                 <li><a href="UpcomingEvents.aspx">Staff Directory</a></li>
             </ul>
